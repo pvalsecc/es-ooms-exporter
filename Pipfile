@@ -9,7 +9,7 @@ kubernetes = "==22.6.0"
 c2cwsgiutils = "==5.0.0"
 
 [dev-packages]
-prospector = {version = "==1.7.2", extras = ["with_bandit", "with_mypy"]}
+prospector = {version = "==1.7.4", extras = ["with_bandit", "with_mypy"]}
 
 [requires]
 python_version = "3.8"
