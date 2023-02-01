@@ -1,4 +1,4 @@
-FROM ubuntu:22.04 AS base
+FROM ubuntu:23.04 AS base
 
 RUN \
   apt-get update && \
