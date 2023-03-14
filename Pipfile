@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 prometheus-client = "==0.16.0"
 kubernetes = "==26.1.0"
-c2cwsgiutils = "==5.2.1"
+c2cwsgiutils = "==5.2.2"
 
 [dev-packages]
 prospector = {version = "==1.9.0", extras = ["with_bandit", "with_mypy"]}
