@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-prometheus-client = "==0.17.0"
+prometheus-client = "==0.17.1"
 kubernetes = "==26.1.0"
 c2cwsgiutils = "==5.2.2"
 
